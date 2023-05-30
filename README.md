@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @ZChronoss
+- 👋 Hi, I’m Renaldi Antonio
 - 👀 I’m interested in programming, technology, and Gaming
 - 🌱 I’m currently learning Computer Science in Bina Nusantara University
+- Currently focusing on Flutter with Dart and ASP.NET with C#
 - 📫 renaldi.antonio19@gmail.com
 
 <!---
