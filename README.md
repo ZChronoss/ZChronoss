@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Renaldi Antonio
 - 👀 I’m interested in programming, technology, and Gaming
 - 🌱 I’m currently learning Computer Science in Bina Nusantara University
-- Currently focusing on Flutter with Dart and ASP.NET with C#
+- 🧑‍💻 Currently focusing on iOS development with SwiftUI and UIKit
+- 🍏 Apple Developer Academy Student
 - 📫 renaldi.antonio19@gmail.com
 
 <!---
